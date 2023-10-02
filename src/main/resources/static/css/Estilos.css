@@ -62,7 +62,7 @@
     padding: 10px;
 }
 
-#contenido{
+.contenido1{
     position: absolute;
     height: 81%;
     top:15%;
@@ -71,12 +71,21 @@
     padding: 7px;
 }
 
+.contenido2 {
+    position: absolute;
+    height: 81%;
+    top: 15%;
+    left: 40%;
+    width: 58%;
+    padding: 7px;
+}
+
 #piedepagina {
-    height: 3%;
+    position: fixed;
+    height: 2%;
     bottom: 0%;
-    left: 12%;
-    width:86%;
-    padding: 10px;
-    text-align: center;
+    left: 86%;
+    width:100%;
+    padding: 15px;
 }
 
